@@ -1,5 +1,5 @@
 -- Matcher.lua
--- The matcher module provides easy and advanced matching of strings.
+-- A matcher module that provides easy and advanced matching of strings.
 -- 7kayoh
 -- Jan 27, 2022
 
